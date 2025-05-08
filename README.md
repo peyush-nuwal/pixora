@@ -1,7 +1,7 @@
 
 #  Pixora — AI Image Enhancer
 
-🌐 [Live Site](https://peyush-nuwal-portfolio.vercel.app/)
+🌐 [Live Site](https://pixora-ashy.vercel.app/)
 
 Pixora is a sleek web application that allows users to upload an image and receive an enhanced version using AI. Built with React, Vite, TailwindCSS, and integrated with the powerful PicWish API, Pixora is designed to be fast, responsive, and intuitive.
 
@@ -29,7 +29,7 @@ Pixora is a sleek web application that allows users to upload an image and recei
 ## 🎥 Demo
 
 Or view the live site:  
-🌐 [peyush-nuwal-portfolio.vercel.app](https://peyush-nuwal-portfolio.vercel.app/)
+🌐 [https://pixora-ashy.vercel.app/](https://pixora-ashy.vercel.app/)
 
 
 ## Screenshots
@@ -53,8 +53,8 @@ To run this portfolio locally, follow these steps:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/peyush-nuwal/portfolio.git
-cd portfolio
+git clone https://github.com/peyush-nuwal/pixora
+cd pixora
 ```
 
 2. **Install dependencies**
